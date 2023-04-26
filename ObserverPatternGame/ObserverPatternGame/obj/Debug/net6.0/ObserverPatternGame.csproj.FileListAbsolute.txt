@@ -1,0 +1,15 @@
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\bin\Debug\net6.0\ObserverPatternGame.exe
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\bin\Debug\net6.0\ObserverPatternGame.deps.json
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\bin\Debug\net6.0\ObserverPatternGame.runtimeconfig.json
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\bin\Debug\net6.0\ObserverPatternGame.dll
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\bin\Debug\net6.0\ObserverPatternGame.pdb
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.csproj.AssemblyReference.cache
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.AssemblyInfoInputs.cache
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.AssemblyInfo.cs
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.csproj.CoreCompileInputs.cache
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.dll
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\refint\ObserverPatternGame.dll
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.pdb
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ObserverPatternGame.genruntimeconfig.cache
+C:\Users\asraf\source\repos\ObserverPatternGame\ObserverPatternGame\obj\Debug\net6.0\ref\ObserverPatternGame.dll

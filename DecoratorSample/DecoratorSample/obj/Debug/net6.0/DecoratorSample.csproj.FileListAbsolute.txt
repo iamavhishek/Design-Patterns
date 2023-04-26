@@ -1,0 +1,15 @@
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.csproj.AssemblyReference.cache
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.AssemblyInfoInputs.cache
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.AssemblyInfo.cs
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.csproj.CoreCompileInputs.cache
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\bin\Debug\net6.0\DecoratorSample.exe
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\bin\Debug\net6.0\DecoratorSample.deps.json
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\bin\Debug\net6.0\DecoratorSample.runtimeconfig.json
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\bin\Debug\net6.0\DecoratorSample.dll
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\bin\Debug\net6.0\DecoratorSample.pdb
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.dll
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\refint\DecoratorSample.dll
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.pdb
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\DecoratorSample.genruntimeconfig.cache
+C:\Users\asraf\source\repos\DecoratorSample\DecoratorSample\obj\Debug\net6.0\ref\DecoratorSample.dll
